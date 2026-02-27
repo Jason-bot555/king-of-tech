@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>King Of Tech</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <header>
+        <h1>KING OF TECH</h1>
+        <p>Your Trusted Business & Technology Partner</p>
+        <a href="#services" class="btn">Explore Services</a>
+    </header>
+
+    <section id="services">
+        <h2>Our Services</h2>
+        <div class="cards">
+            <div class="card">
+                <h3>VPN Solutions</h3>
+                <p>Secure and fast VPN packages for business and personal use.</p>
+            </div>
+            <div class="card">
+                <h3>Web Development</h3>
+                <p>Modern websites for businesses and startups.</p>
+            </div>
+            <div class="card">
+                <h3>Tech Consulting</h3>
+                <p>Professional IT solutions and digital growth strategies.</p>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <p>© 2026 King Of Tech | All Rights Reserved</p>
+    </footer>
+
+<script src="script.js"></script>
+</body>
+</html>
